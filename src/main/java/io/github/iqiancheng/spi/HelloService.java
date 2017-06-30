@@ -1,7 +1,7 @@
 package io.github.iqiancheng.spi;
 
 /**
- * @author <a href="mailto:i@qiancheng.me">yan.peng</a>
+ * @author <a href="mailto:i@qiancheng.me">qiancheng</a>
  */
 public interface HelloService {
 

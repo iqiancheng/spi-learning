@@ -49,3 +49,10 @@ public class Main {
     }
 }
 ```
+程序运行得到结果
+```java
+[main] INFO io.github.iqiancheng.spi.Main - startup
+[main] DEBUG io.github.iqiancheng.spi.service.HelloServiceImpl - HelloServiceImpl.say(spi) enter..
+```
+
+源代码：[ServiceLoader.java](doc/serviceloader-source.md)
